@@ -17,3 +17,6 @@ target
 # idea
 .idea
 *.i??
+.classpath
+.project
+.settings
